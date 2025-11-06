@@ -61,7 +61,7 @@ InternTrack is a full-stack web application that helps users track internship op
 
 **React + Vite**
 - **Purpose**: Modern, fast development and build toolchain
-- **Key Features**: Hot module replacement, TypeScript support, optimized builds
+- **Key Features**: Hot module replacement, TypeScript support, optimised builds
 - **Routing**: React Router DOM for client-side navigation
 - **State Management**: React Query (TanStack Query) for server state, React hooks for local state
 

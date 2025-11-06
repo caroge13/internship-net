@@ -183,7 +183,7 @@ const Index = () => {
         <div className="container mx-auto text-center">
           <h2 className="text-3xl font-bold mb-4 bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">ready to start?</h2>
           <p className="text-xl text-muted-foreground mb-8">
-            Track your favorite companies and see internships in one place.
+            Track your favourite companies and see internships in one place.
           </p>
           <Button size="lg" asChild className="bg-gradient-to-r from-primary to-accent text-black font-bold hover:shadow-[0_0_25px_hsl(195_85%_55%_/_0.6)] transition-all">
             <Link to="/auth?mode=signup">Start Tracking Companies</Link>

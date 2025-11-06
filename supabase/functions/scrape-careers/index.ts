@@ -315,7 +315,7 @@ async function scrapeCareers(url: string, companyName: string, geographies?: str
       }
       
       for (const match of matches.slice(0, 50)) { // Increase limit
-        // Try multiple patterns to extract job title - prioritize more specific patterns
+        // Try multiple patterns to extract job title - prioritise more specific patterns
         const titlePatterns = [
           // Most specific: data attributes
           /data-job-title=["']([^"']+)["']/i,

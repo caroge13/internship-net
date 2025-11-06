@@ -2,7 +2,7 @@
 // This searches for companies that exist on LinkedIn
 
 import 'jsr:@supabase/functions-js@2/edge-runtime-polyfills';
-// @ts-ignore - Deno import works at runtime but TypeScript doesn't recognize it
+// @ts-ignore - Deno import works at runtime but TypeScript doesn't recognise it
 import { createClient } from 'jsr:@supabase/supabase-js@2';
 
 const corsHeaders = {
