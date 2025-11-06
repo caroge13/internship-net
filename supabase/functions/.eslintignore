@@ -1,0 +1,5 @@
+# Ignore all Edge Functions in linting
+# These are Deno code, not Node.js code
+
+*
+
