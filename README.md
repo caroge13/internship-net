@@ -2,6 +2,8 @@
 
 A full-stack web application that helps users track multiple companies' internship postings, get job alerts, and access detailed insights including visa sponsorship, acceptance rates, and company culture.
 
+## 🚧 Work in Progress! Still developing MVP, so features may be incomplete or unstable.
+
 ## 🚀 Features
 
 - **Multi-Company Tracking**: Add all your target companies to one personalized watchlist (supports adding multiple companies at once)
